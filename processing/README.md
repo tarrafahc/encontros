@@ -1,5 +1,5 @@
-- (OpenProcessing.org) - paraíso para ver sketches legais, todos com o código  
-- (sketchpad.cc) - pra programar em Processing online, guardar seus sketches, etc. Excelente pra quem está estudando ir guardando seu código pra poder ir consultando.  
+- (www.OpenProcessing.org) - paraíso para ver sketches legais, todos com o código  
+- (www.sketchpad.cc) - pra programar em Processing online, guardar seus sketches, etc. Excelente pra quem está estudando ir guardando seu código pra poder ir consultando.  
 - [Código, slides, etc, de oficinas do **Tarrafa**](https://github.com/tarrafahc/oficinas/tree/master/processing)
 
 #### 28/09/2016
